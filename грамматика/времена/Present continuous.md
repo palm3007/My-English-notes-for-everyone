@@ -1,5 +1,5 @@
 процесс, что происходит прямо сейчас (в момент речи) или является временной ситуацией
-- I'm paying a game right now
+- I'm playing a game right now
 
 # утверждение
 *подлежащее + глагол + ing (i'm writing notes)*
